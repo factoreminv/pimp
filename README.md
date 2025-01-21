@@ -1,2 +1,2 @@
 # pimp
-Permutation-favoring MLP
+Permutation-favoring MLP and some ways to decompose a matrix
